@@ -92,8 +92,7 @@ nav ul li:nth-of-type(2){
 }
 nav ul li:nth-of-type(3){
     margin-left: 30px;
-    transform: translateX(-200%);
-    
+    transform: translateX(-200%);   
 } 
 .container img {
   max-width: 100%;
